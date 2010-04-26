@@ -1,0 +1,7 @@
+D:\Rule DSL compiler\RuleDslCompiler\bin\Debug\RuleDslCompiler.exe
+D:\Rule DSL compiler\RuleDslCompiler\bin\Debug\RuleDslCompiler.pdb
+D:\Rule DSL compiler\RuleDslCompiler\obj\Debug\ResolveAssemblyReference.cache
+D:\Rule DSL compiler\RuleDslCompiler\obj\Debug\RuleDslCompiler.exe
+D:\Rule DSL compiler\RuleDslCompiler\obj\Debug\RuleDslCompiler.pdb
+D:\My Dropbox\private items\Rule DSL compiler\RuleDslCompiler\obj\Debug\RuleDslCompiler.exe
+D:\My Dropbox\private items\Rule DSL compiler\RuleDslCompiler\obj\Debug\RuleDslCompiler.pdb

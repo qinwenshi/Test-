@@ -1,0 +1,10 @@
+D:\Rule DSL compiler\SharedLibrary\bin\Debug\SharedLibrary.dll
+D:\Rule DSL compiler\SharedLibrary\bin\Debug\SharedLibrary.pdb
+D:\Rule DSL compiler\SharedLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Rule DSL compiler\SharedLibrary\obj\Debug\SharedLibrary.dll
+D:\Rule DSL compiler\SharedLibrary\obj\Debug\SharedLibrary.pdb
+D:\My Dropbox\private items\Rule DSL compiler\SharedLibrary\bin\Debug\SharedLibrary.dll
+D:\My Dropbox\private items\Rule DSL compiler\SharedLibrary\bin\Debug\SharedLibrary.pdb
+D:\My Dropbox\private items\Rule DSL compiler\SharedLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\private items\Rule DSL compiler\SharedLibrary\obj\Debug\SharedLibrary.dll
+D:\My Dropbox\private items\Rule DSL compiler\SharedLibrary\obj\Debug\SharedLibrary.pdb

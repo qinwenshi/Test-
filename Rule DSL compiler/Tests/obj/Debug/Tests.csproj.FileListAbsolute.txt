@@ -1,0 +1,16 @@
+D:\Rule DSL compiler\Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Rule DSL compiler\Tests\bin\Debug\Tests.dll
+D:\Rule DSL compiler\Tests\bin\Debug\Tests.pdb
+D:\Rule DSL compiler\Tests\bin\Debug\nunit.framework.dll
+D:\Rule DSL compiler\Tests\obj\Debug\Tests.dll
+D:\Rule DSL compiler\Tests\obj\Debug\Tests.pdb
+D:\Rule DSL compiler\Tests\bin\Debug\SharedLibrary.dll
+D:\Rule DSL compiler\Tests\bin\Debug\SharedLibrary.pdb
+D:\My Dropbox\private items\Rule DSL compiler\Tests\bin\Debug\Tests.dll
+D:\My Dropbox\private items\Rule DSL compiler\Tests\bin\Debug\Tests.pdb
+D:\My Dropbox\private items\Rule DSL compiler\Tests\bin\Debug\nunit.framework.dll
+D:\My Dropbox\private items\Rule DSL compiler\Tests\bin\Debug\SharedLibrary.dll
+D:\My Dropbox\private items\Rule DSL compiler\Tests\bin\Debug\SharedLibrary.pdb
+D:\My Dropbox\private items\Rule DSL compiler\Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\private items\Rule DSL compiler\Tests\obj\Debug\Tests.dll
+D:\My Dropbox\private items\Rule DSL compiler\Tests\obj\Debug\Tests.pdb
